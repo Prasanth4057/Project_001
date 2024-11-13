@@ -1,5 +1,6 @@
 package org.pageObjects;
 
-public class LoginPage {
+public class LoginPage 
+{
 
 }
